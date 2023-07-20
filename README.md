@@ -6,4 +6,4 @@ The accompanying readme file will be periodically updated to encompass instructi
 To begin your journey, follow these steps for your initial task:
 
 1. Clone this repository to your local PC.
-2. Utilize the CSV files in the "tables" folder to construct a database comprising all 11 tables.
+2. Utilize the CSV files in the "Chinook tables" folder to construct a database comprising all 11 tables.
