@@ -1,9 +1,23 @@
-# SQL for Data Analytics
-Within this repository, you will find comprehensive information required to complete the entire SQL for data analytics course successfully.
+# SQL for Data Analytics (Carsharing)
 
-The accompanying readme file will be periodically updated to encompass instructions for each assignment or project.
+# SQL Queries
+What is the highest demand rate in 2017.
+What is the name of the weekday, month, and season in which we had the highest and lowest average demand throughout 2017.
+For the weekday(s) show the average demand at different hours of that weekday throughout 2017. The results in descending order based on the average demand.
+What was the weather like in 2017; mostly cold, mild, or hot? which weather condition (shown in the weather column) was the most prevalent in 2017?
+What was the average, highest, and lowest wind speed and humidity for each month in 2017?  for each cold, mild, and hot weather in 2017 sorted in descending order.
+The month that has highest average demand in 2017 should be compare it with other months
 
-To begin your journey, follow these steps for your initial task:
 
-1. Clone this repository to your local PC.
-2. Utilize the CSV files in the "Chinook tables" folder to construct a database comprising all 11 tables.
+# OVERVIEW
+
+This project includes SQL queries and comprehensive documentation for analyzing a car-sharing dataset. The dataset contains hourly records of customer demand, weather conditions, and temperature from January 2017 to August 2018.
+
+# FILES
+
+- SQL_queries.sql: Cotains SQL queries used to analyse the data set and answer specific business questions
+- Data Model ERD png Entity: Relationship Diagram (ERD) illustrating the data model and relationship between tables.
+
+- 
+
+
