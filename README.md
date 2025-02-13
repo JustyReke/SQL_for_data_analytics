@@ -10,6 +10,16 @@ The month that has highest average demand in 2017 should be compare it with othe
 
 ![Uploading Screenshot 2025-02-13 213643.png…]()
 
+# INSTRUCTIONS
+- Clone or download this repository to your local machine
+- Open the SQL queries to file and view the queries
+- Execute the SQL queries in SQL database (DBS) MySQL or SQL WorkBench
+- Review the results and analysis from the queries
+- Use data dictionary for descriptions of columns and tables.
+
+# Dataset Information
+The Dataset is the original data that came from a car-sharing company and includes hourly information on customer, weather condition and temperature. For privacy protect, the dataset was anonymized and cleaned
+
 
 # OVERVIEW
 
