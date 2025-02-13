@@ -8,7 +8,8 @@ What was the weather like in 2017; mostly cold, mild, or hot? which weather cond
 What was the average, highest, and lowest wind speed and humidity for each month in 2017?  for each cold, mild, and hot weather in 2017 sorted in descending order.
 The month that has highest average demand in 2017 should be compare it with other months
 
-https://drive.google.com/file/d/1EEgl0o6Zj5CbUg2I-zSoGffOi6ezR3Xt/view?usp=sharing
+![Uploading Screenshot 2025-02-13 213643.png…]()
+
 
 
 
