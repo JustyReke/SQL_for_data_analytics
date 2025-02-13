@@ -11,6 +11,7 @@ The month that has highest average demand in 2017 should be compare it with othe
 ![Uploading Table II.PNG…]()
 
 
+
 # OVERVIEW
 
 This project includes SQL queries and comprehensive documentation for analyzing a car-sharing dataset. The dataset contains hourly records of customer demand, weather conditions, and temperature from January 2017 to August 2018.
