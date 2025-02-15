@@ -31,9 +31,10 @@ This project includes SQL queries and comprehensive documentation for analyzing 
 
 # FILES
 
+- Created SQL Database "carsharing" as "CarSharing_df", "temperature", "weather", and "time" as tables in the database.
 - SQL_queries.sql: Cotains SQL queries used to analyse the data set and answer specific business questions
 - Data Model ERD png Entity: Relationship Diagram (ERD) illustrating the data model and relationship between tables.
 
-- 
+  [Database](https://docs.google.com/spreadsheets/d/10yl3qcMhOzjk7tIqmvrb7qrejkPaCFrGFVe9RLAHvS4/edit?gid=2005725648#gid=2005725648)
 
 
