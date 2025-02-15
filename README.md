@@ -21,7 +21,8 @@ The month that has highest average demand in 2017 should be compare it with othe
 The Dataset is the original data that came from a car-sharing company and includes hourly information on customer, weather condition and temperature. For privacy protect, the dataset was anonymized and cleaned
 
 
-[Dataset befor cleaning](https://drive.google.com/file/d/1kt3w39Hkk3jnPbYvUnI_1Tx2h-CnNpvE/view)
+[Data Source Before Cleaning](https://drive.google.com/file/d/1kt3w39Hkk3jnPbYvUnI_1Tx2h-CnNpvE/view)
+[Data Source After Cleaning](https://docs.google.com/spreadsheets/d/1Z7UAE59J3W7vbosDeyvZeGlVUUaQ2E1xtW3SycCsivY/edit?gid=2005725648#gid=2005725648)
 
 # OVERVIEW 
 
